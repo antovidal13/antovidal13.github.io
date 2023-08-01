@@ -1,0 +1,71 @@
+body{
+    font-family: Helvetica, Arial, sans-serif; 
+    margin:0;
+    background-color: #c8a0e8;
+}
+header{
+    background-color: #4b42f5;
+    color: white;
+    text-align: center;
+    padding: 16px;
+}
+#title{
+    display: inline-block;
+    width: 400px;
+    font-weight: bold;
+}
+#description{
+    display: inline-block;
+    width: 400px;
+    font-weight: 200;
+}
+.sub{
+   background-color: #7e42f5;
+   color: black;
+   text-align: center;
+   padding: 10px;
+}
+.section{
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.edu{
+    display:inline-block;
+    width:68%;
+    vertical-align:top;
+}
+#img{
+    display:inline-block; 
+    width:30%; 
+    margin-top: 20px;
+}
+.education{
+    display: inline-block;
+    width: 68%;
+    vertical-align: top;
+}
+h3{
+    font-size: 36px;
+    font-weight: 700;
+}
+dt{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    margin-top: 36px;
+}
+dd{
+    margin: 0.5;
+}
+
+.experience, .adicional, .social{
+    margin-top: 70px;
+}
+ul{
+    margin-top: 12px;
+    padding: 0px;
+}
+li{
+    margin-top: 16px;
+}
